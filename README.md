@@ -1,1 +1,1 @@
-# bitboard
+# bit:board
