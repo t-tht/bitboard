@@ -143,12 +143,18 @@ namespace bitboard
     export function sendfkey(fkey: BBFKeys){
       //switch (fkey)
 	  //       {
-      //      case BBFKeys.F1: return bitboard.send_function_keys(0x28);
-      //      case BBFKeys.F2: return bitboard.send_function_keys(0x2c);
-      //      case BBFuncKeys.Backspace: return bitboard.send_function_keys(0x2a);
-      //      case BBFuncKeys.Tab: return bitboard.send_function_keys(0x2b);
-      //      case BBFuncKeys.Escape: return bitboard.send_function_keys(0x29);
-      //      case BBFuncKeys.CapsLock: return bitboard.send_function_keys(0x39);
+      //      case BBFKeys.F1: return bitboard.send_function_keys(0x3a);
+      //      case BBFKeys.F2: return bitboard.send_function_keys(0x3b);
+      //      case BBFKeys.F3: return bitboard.send_function_keys(0x3c);
+      //      case BBFKeys.F4: return bitboard.send_function_keys(0x3d);
+      //      case BBFKeys.F5: return bitboard.send_function_keys(0x3e);
+	//    case BBFKeys.F6: return bitboard.send_function_keys(0x3f);
+	//    case BBFKeys.F7: return bitboard.send_function_keys(0x40);
+	//    case BBFKeys.F8: return bitboard.send_function_keys(0x41);
+	//    case BBFKeys.F9: return bitboard.send_function_keys(0x42);
+	//    case BBFKeys.F10: return bitboard.send_function_keys(0x43);
+	//    case BBFKeys.F11: return bitboard.send_function_keys(0x44);
+	//    case BBFKeys.F12: return bitboard.send_function_keys(0x45);
 	  //        default: return false;
       //     }
     }
